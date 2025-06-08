@@ -1,4 +1,4 @@
-order_id,customer_id,order_date,total_amount,status,updated_at
+order_id,customer_id,order_date,total_amount,status,created_at
 1,43,2025-04-29 23:12:41,3702.91,DELIVERED,2025-05-06 23:12:41
 2,124,2025-05-19 19:27:48,1752.38,SHIPPED,2025-05-25 19:27:48
 3,232,2025-05-04 13:38:06,1421.67,PENDING,2025-05-06 13:38:06
